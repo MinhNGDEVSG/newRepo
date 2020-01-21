@@ -1,0 +1,2 @@
+# newRepo
+Git demo core 
